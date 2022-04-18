@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "Exercises"
+    }
+  },
+  "defaultProject": "Exercises",
+  "cli": {
+    "analytics": "c00967bb-67c1-465f-a03a-9ed8f5c563ea"
+  }
 }

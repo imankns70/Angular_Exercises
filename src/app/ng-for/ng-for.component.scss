@@ -1,0 +1,14 @@
+.checked-in{
+    background-color: aqua;
+}
+.status{
+    width: 10px;
+    height: 10px;
+    background: #c0392b;
+    display: block;
+    margin: 8px 10 px 0 0;
+    border-radius: 50%;
+    &.checked-in {
+        background: #2ecc71;
+    }
+}
