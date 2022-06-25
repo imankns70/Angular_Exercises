@@ -10,7 +10,7 @@ import { AppComponent } from './app.component';
 import { NgIfComponent } from './ng-if/ng-if.component';
 import { PassengerDetailComponent } from '../app//passenger/components/passenger-detail/passenger-detail.component';
 import { PassengerCountComponent } from '../app//passenger/components/passenger-count/passenger-count.component';
-
+import {DonutItemComponent} from '../app/ng-if/donut-item/donut-item.component'
 import { NgForComponent } from './ng-for/ng-for.component';
 import { PassengerDashboardComponent } from './passenger/containers/passenger-dashboard/passenger-dashboard.component';
 import { NgTemplateComponent } from './ng-template/ng-template.component';
@@ -29,7 +29,8 @@ import { NgTemplateComponent } from './ng-template/ng-template.component';
       PassengerCountComponent,
       PassengerDetailComponent,
       PassengerDashboardComponent,
-      NgTemplateComponent
+      NgTemplateComponent,
+      DonutItemComponent
    ],
   imports: [
   
